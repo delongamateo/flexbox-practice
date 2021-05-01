@@ -13,7 +13,7 @@
 
 }
 
-/* SIDEBAR*/
+/* SIDEBAR */
 
 .sidebar {
     width: 30%;
@@ -28,6 +28,8 @@ h1 {
     margin-top: 20px;
     margin-bottom: 50px;
 }
+
+/* CARDS */
 
 .cards {
  display: flex;
